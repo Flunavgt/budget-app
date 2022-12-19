@@ -1,0 +1,35 @@
+.top_login {
+  width: 98.5vw;
+  background-color: #3778c2;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.sign_up_btn {
+  text-decoration: none;
+}
+
+.body_login {
+  width: 98.5vw;
+  background-color: rgb(216, 213, 213);
+  padding-top: 12px;
+  height: 90vh;
+}
+
+.field_input {
+  width: 100%;
+  text-indent: 10px;
+  border: none;
+  padding: 20px 0;
+  border-bottom: 1px solid grey;
+}
+
+.forgot_pass {
+  text-align: center;
+  text-decoration: none;
+  width: 20vw;
+  margin-inline: 40vw;
+  color: gray;
+}
