@@ -55,11 +55,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Budget App] <a name="about-project"></a>
+# 📖 Moon Budget App <a name="about-project"></a>
+![Screen Shot 2022-12-19 at 10 30 39](https://user-images.githubusercontent.com/99816838/208474100-94c9a5d3-da13-445f-9958-6a5ea3e6a5ec.png)
 
-> Describe your project in 1 or 2 sentences.
 
-**[Budget App]** is a...
+# Description
+-Will help you keet track of all your expenses, You will be able to assign a Category to each expense and it will keet a total per each category.
 
 ## 🛠 Built With <a name="built-with"></a>
 
