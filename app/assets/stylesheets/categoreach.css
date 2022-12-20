@@ -1,0 +1,56 @@
+.catEach {
+  width: 90vw;
+  margin-inline: 5vw;
+  margin-bottom: 10px;
+  margin-top: 8px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.catDetails {
+  flex-direction: column;
+  align-items: center;
+  width: 30vw;
+  justify-content: space-around;
+}
+
+.catDetails p {
+  font-size: 2.5rem;
+  margin: 5px 0 0 0;
+  text-decoration: none;
+  width: 25%;
+  text-align: center;
+}
+
+.delBtn {
+  border: none;
+  background-color: white;
+}
+
+.editBtn {
+  text-decoration: none;
+  color: #000;
+}
+
+.totalinfo {
+  margin-right: 20px;
+}
+
+.infocarddet {
+  width: 60vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.catUtilBt {
+  width: 15vw;
+  margin: 5px 0 5px 0;
+  justify-content: space-around;
+}
+
+.catEach,
+.infocarddet,
+.catDetails,
+.catUtilBt {
+  display: flex;
+}

@@ -1,0 +1,41 @@
+.cateForm {
+  display: flex;
+  width: 24vw;
+  margin-inline: 38vw;
+  margin-top: 5rem;
+  align-content: center;
+}
+
+.category-name {
+  width: 22vw;
+}
+
+.myIconSelect {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  display: flex;
+  flex-shrink: 0;
+  background-color: #3778c2;
+  height: 3.5rem;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.back-img,
+.hamburger-img {
+  height: 1.2rem;
+}
+
+.header p {
+  color: white;
+}
+
+.nav-logout-btn {
+  border: none;
+  background-color: red;
+  color: white;
+}

@@ -46,6 +46,10 @@ gem 'figaro'
 
 gem 'devise'
 
+gem 'cancancan'
+
+gem 'bullet', group: 'development'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
