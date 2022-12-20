@@ -10,11 +10,11 @@
   
 <div class="body_login">
   <div class="field">
-    <%= f.text_field :name, placeholder: "Name", class: 'field_input' %>
+    <%= f.text_field :name, autofocus: true, placeholder: "Name", class: 'field_input' %>
   </div>
 
   <div class="field">
-    <%= f.email_field :email, autofocus: true, autocomplete: "email", placeholder: "Email",
+    <%= f.email_field :email, autocomplete: "email", placeholder: "Email",
         class: 'field_input' %>
   </div>
 
