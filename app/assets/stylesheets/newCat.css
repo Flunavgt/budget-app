@@ -16,13 +16,14 @@
 }
 
 .header {
+  width: 90vw;
+  margin-inline: 5vw;
   display: flex;
-  flex-shrink: 0;
   background-color: #3778c2;
   height: 3.5rem;
+  border-radius: 5px;
   justify-content: space-around;
   align-items: center;
-  padding: 0 1rem;
 }
 
 .back-img,
@@ -37,5 +38,6 @@
 .nav-logout-btn {
   border: none;
   background-color: #5fb523;
+  border-radius: 5px;
   color: white;
 }
