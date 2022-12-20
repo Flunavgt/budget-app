@@ -1,22 +1,20 @@
-<div class="expenseEach" id="<%= dom_id expense %>">
-  <div class="expense">
-  <div>
+<div class="expensecard" id="<%= dom_id expense %>">
+  
     <p>
       <%= expense.name %>
     </p>
     <p class="date">
       <%= expense.created_at.strftime("%e %b %y") %>
     </p>
-  </div>
-
+  
+  <p>Total</p>
   <p>
     <strong><%= number_to_currency(expense.amount) %></strong>
-    
   </p>
 
-  </div>
-  <div class="edit-destroy-buttons">
-    <%= link_to image_tag("edit.png"), edit_category_expense_path(@category, expense), class: 'edit-btn' %>
-    <%= button_to image_tag("delete.png"), category_expense_path(@category, expense), method: :delete, class: 'delete-btn' %>
-  </div>
+    <button>
+    <%= link_to "edit", edit_category_expense_path(@category, expense), class: 'edit-btn' %>
+    </button>
+    <%= button_to "delete", category_expense_path(@category, expense), method: :delete, class: 'delete-btn' %>
+
 </div>

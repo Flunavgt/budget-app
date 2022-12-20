@@ -1,0 +1,14 @@
+.expensecard {
+  display: flex;
+  width: 80vw;
+  margin-inline: 10vw;
+  border: 1px solid rgb(16, 15, 15);
+  border-radius: 5px;
+  margin-top: 8px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.infoexp {
+  border: 1px solid #000;
+}

@@ -210,6 +210,10 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Ackowledgments
+
+  * To [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=), Original design.
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
