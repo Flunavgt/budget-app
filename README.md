@@ -96,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[User is able to track expenses per category]**
+- **[User can choose an icon per category]**
+- **[Each user is able to check only his/her expenses]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,13 +116,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> Make sure you have installed Ruby and Rails on your system
 
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
 
 <!--
 Example command:
@@ -134,7 +130,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/Flunavgt/budget-app.git
 
 <!--
 Example commands:
@@ -147,7 +143,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: bundle install
 
 <!--
 Example command:
@@ -160,7 +156,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: Rails s
 
 <!--
 Example command:
@@ -172,7 +168,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: rspec
 
 <!--
 Example command:
@@ -182,9 +178,7 @@ Example command:
 ```
 --->
 
-### Deployment
 
-You can deploy this project using:
 
 <!--
 Example:
@@ -198,7 +192,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -210,65 +204,23 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Ackowledgments
 
-  * To [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=), Original design.
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+  * To [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=), Original design.
 
-I would like to thank...
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
