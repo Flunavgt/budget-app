@@ -34,3 +34,5 @@
 /config/application.yml
 
 /node_modules/*
+
+/spec/*

@@ -1,6 +1,5 @@
 <div class="categories">
 
-<%= render "layouts/header_hamburguer", title: 'CATEGORIES' %>
 
 <div class="categories-list">
   <% @categories.includes([:user]).order('created_at DESC').each do |category| %>
@@ -10,7 +9,9 @@
   <% end %>
 </div>
 
-<%= link_to "New Category", new_category_path, class: 'new-category-btn' %>
+<button class="newCatBtn">
+<%= link_to "New Category", new_category_path, class: 'newCatbtntext' %>
+</button>
 
 </div>
 
