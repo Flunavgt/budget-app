@@ -29,7 +29,6 @@
 .forgot_pass {
   text-align: center;
   text-decoration: none;
-  width: 20vw;
-  margin-inline: 40vw;
+  width: 80vw;
   color: gray;
 }

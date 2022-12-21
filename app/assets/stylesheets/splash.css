@@ -1,14 +1,13 @@
 .splash_general {
   display: flex;
   width: 100vw;
-  height: 100vh;
+  height: 95vh;
   flex-direction: column;
 }
 
 .My_logo {
-  /* width: 68vw; */
-  height: 68vh;
-  margin-inline: 25vw;
+  width: 65vw;
+  margin: 0 !important;
 }
 
 .entrance_buttons {
