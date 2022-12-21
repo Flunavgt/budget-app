@@ -11,12 +11,6 @@
   text-decoration: none;
 }
 
-.top_login button {
-  border: none;
-  background-color: #3778c2;
-  color: white;
-}
-
 .body_login {
   width: 98.5vw;
   background-color: rgb(216, 213, 213);
