@@ -35,9 +35,29 @@
   color: white;
 }
 
-.nav-logout-btn {
+.nav-logout-btn,
+.sign-out {
   border: none;
   background-color: #5fb523;
   border-radius: 5px;
   color: white;
+}
+
+
+.nav-section-name {
+  width: 90vw;
+  margin-inline: 5vw;
+  display: flex;
+  background-color: #3778c2;
+  height: 3.5rem;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.back_logo {
+  color: white;
+  text-decoration: none;
+  font-size: 2.5rem;
 }

@@ -1,6 +1,5 @@
 <div class="categories">
 
-<%= render "layouts/header_hamburguer", title: 'CATEGORIES' %>
 
 <div class="categories-list">
   <% @categories.includes([:user]).order('created_at DESC').each do |category| %>

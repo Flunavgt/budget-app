@@ -1,8 +1,5 @@
 <div class="expenses">
-  <div>
-    <%= render "layouts/header_back_categories", title: 'EXPENSES' %>
-
-  </div>
+  
   <div class="expenses-list">
   <% @category.expenses.order('created_at DESC').each do |expense| %>
     <%= render expense %>
