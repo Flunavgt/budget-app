@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 - [Live Demo Link](https://budget-app-production-2d81.up.railway.app/)
 
 ## Video presentation for the Project
-- [Video](https://www.loom.com/share/b174a321d1cf478da7794ab592780f77)
+- [Video](https://www.loom.com/share/eed016c7563a4eb3802cf83fcf5b8862)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
