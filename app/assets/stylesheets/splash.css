@@ -6,9 +6,8 @@
 }
 
 .My_logo {
-  /* width: 68vw; */
-  height: 68vh;
-  margin-inline: 25vw;
+  width: 50vw;
+  margin: 0 !important;
 }
 
 .entrance_buttons {
