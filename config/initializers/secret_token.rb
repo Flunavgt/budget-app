@@ -1,1 +1,0 @@
-budget-app::Application.config.secret_key_base = c740a71b34d3df01a22610da594f7471538$
