@@ -1,0 +1,63 @@
+.cateForm {
+  display: flex;
+  width: 24vw;
+  margin-inline: 38vw;
+  margin-top: 5rem;
+  align-content: center;
+}
+
+.category-name {
+  width: 22vw;
+}
+
+.myIconSelect {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  width: 90vw;
+  margin-inline: 5vw;
+  display: flex;
+  background-color: #3778c2;
+  height: 3.5rem;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.back-img,
+.hamburger-img {
+  height: 1.2rem;
+}
+
+.header p {
+  color: white;
+}
+
+.nav-logout-btn,
+.sign-out {
+  border: none;
+  background-color: #5fb523;
+  border-radius: 5px;
+  color: white;
+}
+
+.nav-section-name {
+  width: 100vw;
+  margin-top: 0;
+  display: flex;
+  background-color: #3778c2;
+  height: 3.5rem;
+  border-radius: 5px;
+  justify-content: space-between;
+  padding: 0 1rem;
+  align-items: center;
+  color: white;
+}
+
+.back_logo {
+  color: white;
+  text-decoration: none;
+  font-size: 2.5rem;
+}

@@ -1,0 +1,26 @@
+<div class="catEach" id="<%= dom_id category %>">
+  <%= link_to category do %>
+    <div class="catDetails">
+      <p>
+        <%= category.icon %>
+      </p>
+      <div class="catUtilBt">
+        <%= link_to "edit", edit_category_path(category), class: 'editBtn' %>
+        <%= button_to "delete", category, method: :delete, class: 'delBtn' %>
+      </div>
+    </div>
+    <div class="infocarddet">
+      <p>
+        <%= category.name %>
+      </p>
+
+      <div class="totalinfo">
+        <p><strong>Total:</strong></p>
+        <p><strong><%= number_to_currency(category.expenses.sum(:amount)) %></strong></p>
+      </div>
+    </div>
+   
+  <%end%>
+   
+  
+</div>

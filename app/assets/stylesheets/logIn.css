@@ -1,0 +1,43 @@
+.top_login {
+  width: 90vw;
+  background-color: #3778c2;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  align-items: center;
+  color: white;
+}
+
+.top_login input {
+  border: none;
+  background-color: #3778c2 !important;
+  color: white;
+}
+
+.sign_up_btn {
+  text-decoration: none;
+}
+
+.body_login {
+  width: 98.5vw;
+  background-color: rgb(216, 213, 213);
+  padding-top: 12px;
+  height: 90vh;
+}
+
+.field_input {
+  width: 100%;
+  text-indent: 10px;
+  border: none;
+  padding: 20px 0;
+  border-bottom: 1px solid grey;
+}
+
+/* .forgetPassdiv a {
+  text-align: center;
+} */
+
+.forgot_pass {
+  text-decoration: none;
+  color: gray;
+}

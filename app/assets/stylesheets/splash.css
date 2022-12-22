@@ -1,0 +1,31 @@
+.splash_general {
+  display: flex;
+  width: 100vw;
+  height: 95vh;
+  flex-direction: column;
+}
+
+.My_logo {
+  width: 65vw;
+  margin: 0 !important;
+}
+
+.entrance_buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.my_login {
+  background-color: #3778c2;
+  width: 90vw;
+  margin-inline: 5vw;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.enter_btn_name {
+  text-decoration: none;
+  color: white;
+  font-size: 19px;
+}
