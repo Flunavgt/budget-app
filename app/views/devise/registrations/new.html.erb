@@ -3,7 +3,7 @@
 <div class="top_login">
 <%= link_to '<', root_path, class:"back_logo" %>
 <h2>Sign up</h2>
-<%= f.submit "Sign up" %>
+<%= f.submit "NEXT", class: 'loginBtnTop', style: 'color: white; background-color: #3778c2; border: none;' %>
 </div>
 
   
@@ -18,11 +18,8 @@
   </div>
 
   <div class="field">
-    <%= f.label :password %>
-    <% if @minimum_password_length %>
-    <em>(<%= @minimum_password_length %> characters minimum)</em>
-    <% end %><br />
-    <%= f.password_field :password, autocomplete: "new-password", placeholder: "Password",
+   
+    <%= f.password_field :password, autocomplete: "new-password", placeholder: "Password minimum 6 Charcters",
         class: 'field_input' %>
   </div>
 

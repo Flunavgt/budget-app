@@ -7,6 +7,12 @@
   color: white;
 }
 
+.top_login input {
+  border: none;
+  background-color: #3778c2 !important;
+  color: white;
+}
+
 .sign_up_btn {
   text-decoration: none;
 }
@@ -26,9 +32,11 @@
   border-bottom: 1px solid grey;
 }
 
-.forgot_pass {
+/* .forgetPassdiv a {
   text-align: center;
+} */
+
+.forgot_pass {
   text-decoration: none;
-  width: 80vw;
   color: gray;
 }
