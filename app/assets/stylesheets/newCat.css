@@ -44,8 +44,8 @@
 }
 
 .nav-section-name {
-  width: 90vw;
-  margin-inline: 5vw;
+  width: 100vw;
+  margin-top: 0;
   display: flex;
   background-color: #3778c2;
   height: 3.5rem;
