@@ -50,7 +50,8 @@
   background-color: #3778c2;
   height: 3.5rem;
   border-radius: 5px;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: 0 1rem;
   align-items: center;
   color: white;
 }

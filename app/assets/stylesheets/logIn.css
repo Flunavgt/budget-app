@@ -2,7 +2,8 @@
   width: 98.5vw;
   background-color: #3778c2;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: 0 1rem;
   align-items: center;
   color: white;
 }
